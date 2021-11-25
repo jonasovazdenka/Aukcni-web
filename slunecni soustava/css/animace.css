@@ -1,0 +1,48 @@
+@keyframes mercur{
+    from{
+        transform: rotate(0) translate(200px);
+    }
+
+    to{
+        transform: rotate(360deg) translate(200px);
+    }
+}
+
+@keyframes venuse{
+    from{
+        transform: rotate(0) translate(300px);
+    }
+
+    to{
+        transform: rotate(360deg) translate(300px);
+    }
+}
+
+@keyframes zeme{
+    from{
+        transform: rotate(0) translate(400px);
+    }
+
+    to{
+        transform: rotate(360deg) translate(400px);
+    }
+}
+@keyframes mesic{
+    from{
+        transform: rotate(0) translate(50px);
+    }
+
+    to{
+        transform: rotate(360deg) translate(50px);
+    }
+}
+
+@keyframes zare{
+    from{
+        transform: rotate(0);
+    }
+
+    to{
+        transform: rotate(360deg);
+    }
+}
