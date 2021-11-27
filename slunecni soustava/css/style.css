@@ -39,6 +39,9 @@ body{
     left: calc(50% - var(--size) / 2);
     border-radius: 50%;
 }
+.planeta{
+    box-shadow: inset -10px 0px 10px black;
+}
 .sun{
     --size: 150px;
     background: yellow;
@@ -55,7 +58,6 @@ body{
 .mercur{
         --size: 30px;
         background: grey;
-        animation: mercur 7s infinite linear;
 }
 
 .venuse{
