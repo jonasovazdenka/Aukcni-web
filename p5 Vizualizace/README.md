@@ -1,0 +1,2 @@
+Po nějaké době jsem měla jsem problém se spuštěním programu ale nevím proč, žádné errory jsem neměla.
+Dělala jsem to pomocí videa od The Coding Train (abych se pokusila o pochopení kódu) který tam zejména dělal jenom obrázek dle písmen a já to chtěla udělat tak, že by tam ten text projížděl, ale jelikož nevím jestli 
