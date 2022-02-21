@@ -1,4 +1,4 @@
-zde je odkaz na stránku: http://jonasovaz.wz.cz
+web: http://jonasovaz.wz.cz
 
 ![image](https://user-images.githubusercontent.com/86010709/155031005-8b0a429b-10ec-48b0-9991-f278929ac4cb.png)
 
