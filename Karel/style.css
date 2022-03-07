@@ -1,0 +1,45 @@
+body{
+    font-family: monospace;
+    background: #FFC0CB;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    background: #FF92A5;
+    color: #D90026;
+}
+h1 {
+    font-size: 2em;
+    color: #D90026;
+}
+main > div {
+    padding: 2em;
+    display: flex;
+    flex-direction: row;
+}
+fieldset {
+    display: flex;
+    flex-direction: column;
+    resize: none;
+    color: #FF92A5;
+}
+
+button{
+    text-align: center;
+    background: #FFC0CB;
+    border: 0;
+}
+
+table{
+    border: 2px #000 solid;
+    border-collapse: collapse;
+}
+td{
+    border: 1px #000 solid;
+    height: 2em;
+    width: 2em;
+    text-align: center;
+}
